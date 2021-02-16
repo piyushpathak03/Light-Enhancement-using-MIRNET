@@ -1,6 +1,11 @@
 # Low Light Image Enhancement using Python & Deep Learning
 
-## To view the video
+## MIRNET
+Framework of the proposed network MIRNet that learns enriched feature representations for image restoration and enhancement. MIRNet is based on a recursive
+residual design. In the core of MIRNet is the multi-scale residual block (MRB) whose
+main branch is dedicated to maintaining spatially-precise high-resolution representations through the entire network and the complimentary set of parallel branches provide better contextualized features. It also allows information exchange across parallel
+streams via selective kernel feature fusion (SKFF) in order to consolidate the highresolution features with the help of low-resolution features, and vice versa.
+
 
 * Click on the image below
 
