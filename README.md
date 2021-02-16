@@ -4,11 +4,8 @@
 
 * Click on the image below
 
-## 1. Original image
+##  Original image vs Enhance image
 ![Alt Text](https://github.com/piyushpathak03/Light-Enhancement-using-MIRNET/blob/main/download.png)
-
-## 2. Enhanced image
-![Alt Text](https://github.com/piyushpathak03/Light-Enhancement-using-MIRNET/blob/main/enhanced.png)
 
 
 ## About me
